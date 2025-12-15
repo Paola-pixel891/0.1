@@ -7,6 +7,11 @@
 * Contenido principal.
 * Pie de página (footer) añadido por el equipo de PAOLA.
 ---
+### Componentes del Sitio
+* Barra de navegación (header) con nuevo logo.
+* Contenido principal.
+* Pie de página (footer) añadido por el equipo de PAOLA.
+---
 
 ### ✨FIN 
 
