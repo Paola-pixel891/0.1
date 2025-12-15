@@ -18,6 +18,11 @@
 
 ---
 
+### Últimas Novedades
+* Añadida sección de comparación de versiones.
+
+---
+
 ### ✨FIN 
 
 
