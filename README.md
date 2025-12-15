@@ -20,6 +20,7 @@
 
 ### Últimas Novedades
 * Añadida sección de comparación de versiones.
+* Revisión de sintaxis en el README.
 
 ---
 
